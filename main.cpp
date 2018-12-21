@@ -1,2 +1,10 @@
+#include <iostream>
+#include <string>
+using namespace std;
 
-//hello
+
+int main() {
+  cout<<"hello"<<endl;
+
+  return 0;
+}
